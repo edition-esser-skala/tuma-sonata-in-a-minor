@@ -1,0 +1,17 @@
+composer:
+  last: Tůma
+  first: František Ignác Antonín
+title: Sonata in A minor
+genre: sonata
+scoring: 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  A1:
+    siglum: D-B
+    shelfmark: Mus.ms.autogr. Tuma, F. 1 M
+    date: 1750–175
+    rism: 1001020759
+    url: https://resolver.staatsbibliothek-berlin.de/SBB00033EEE00000000
+    license: public domain
+    principal: true
+imslp:
