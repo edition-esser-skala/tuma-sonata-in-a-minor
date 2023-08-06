@@ -1,7 +1,7 @@
 \version "2.24.0"
 
 \include "../definitions.ly"
-#(define option-instrument-name "org")
+#(define option-instrument-name "vl 2")
 \include "score_settings/one-staff.ly"
 
 \book {
@@ -12,10 +12,9 @@
     \score {
       <<
         \new Staff {
-          \set Staff.instrumentName = "Organo"
-          \SonataOrgano
+          \set Staff.instrumentName = "Violino II"
+          \SonataViolinoII
         }
-        \new FiguredBass { \SonataBassFigures }
       >>
     }
   }
