@@ -6,9 +6,9 @@
 \book {
   \bookpart {
     \section "Sonata"
-    % \addTocEntry
+    \addTocEntry
     \paper {
-      % systems-per-page = #4
+      systems-per-page = #4
       indent = 2\cm
     }
     \score { %\articulate
@@ -34,7 +34,7 @@
         \new FiguredBass { \SonataBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 70 }
+      \midi { \tempo 4 = 80 } %100 – 100
     }
   }
 }
